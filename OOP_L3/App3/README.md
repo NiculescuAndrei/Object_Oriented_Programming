@@ -1,4 +1,4 @@
-# Aplicatia 3
+# Aplicația 3
 Să se proiecteze și să se implementeze o clasă C++ pentru bilele
 utilizate în cadrul extragerilor „Loto”. O bilă este reprezentată prin
 numărul asociat și prin starea curentă, indicând dacă respectiva bilă a fost

@@ -1,4 +1,4 @@
-# Aplicatia 1
+# Aplicația 1
 Să se proiecteze și să se implementeze o clasă “Agentie Loto”
 pentru activitatea de inregistrare a biletelor de joc. Pentru fiecare bilet se vor genera aleator 3 vectori cu 6 bile fiecare. După
 simularea desfășurării unei extrageri Loto se va verifica dacă există un
