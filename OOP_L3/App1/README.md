@@ -1,4 +1,4 @@
-# Application 1
+# Aplicația 1
 Să se proiecteze și să se implementeze o clasă C++ pentru obiecte de tip
 zaruri. Clasa trebuie să poată memora numărul de pe fața superioară după
 ultima aruncare a unui zar. În plus, ea trebuie să conțină o funcție membru
