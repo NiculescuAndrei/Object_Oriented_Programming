@@ -10,7 +10,7 @@ grup;
 grupului de edituri;
 * identificatorul de titlu, pentru identificarea titlului unei cărți sau
 reviste editată de o editură;
-* cifra de control, care este întotdeauna formată dintr-o singură cifră. \
+* cifra de control, care este întotdeauna formată dintr-o singură cifră. 
 Clasa va avea ca dată membru un șir de caractere
 ce va reprezenta ISBN-ul, utilizând caracterul ‘-‘ pentru separarea celor
 patru grupuri. Ea va trebui să conțină cel puțin următoarele funcții
