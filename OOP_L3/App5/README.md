@@ -9,7 +9,6 @@ cărților dintr-o bibliotecă. Pentru fiecare carte trebuie specificate:
 * anul apariției;
 * prețul.
 
-#
 Programul va permite crearea unui tablou cu cărțile dintr-o bibliotecă și
 posibilitatea de căutare a unor cărți în funcție de: titlu, editură, sau ISBN.
 Funcțiile clasei vor fi scrise astfel încât să permită operațiile menționate
