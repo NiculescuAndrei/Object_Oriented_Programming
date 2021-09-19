@@ -1,4 +1,4 @@
-# Application 2
+# Aplicația 2
 Să se dezvolte trei module pentru operații cu tablouri: tablouri
 cu numere întregi, tablouri cu numere reale și tablouri șiruri de caractere (se va utiliza
 clasa string, pentru care sunt supraîncărcați operatorii <<, >>, precum și cei de

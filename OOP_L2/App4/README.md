@@ -1,4 +1,4 @@
-# Application 4
+# Aplicația 4
 Un vector n-dimensional este un tablou de n
 componente reale. Adunarea a doi vectori se definește astfel:
  u = (x1, ..., xn), v = (y1, ..., yn), u+v = (x1+y1, ..., xn+yn). 
