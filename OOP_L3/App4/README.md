@@ -11,11 +11,12 @@ grupului de edituri;
 * identificatorul de titlu, pentru identificarea titlului unei cărți sau
 reviste editată de o editură;
 * cifra de control, care este întotdeauna formată dintr-o singură cifră. 
-\
+
 Clasa va avea ca dată membru un șir de caractere
 ce va reprezenta ISBN-ul, utilizând caracterul ‘-‘ pentru separarea celor
 patru grupuri. Ea va trebui să conțină cel puțin următoarele funcții
 membru:
+
 * un constructor, în cazul specificării doar a primelor trei grupuri,
 cifra de control fiind generată automat;
 * un constructor, pentru cazul în care se specifică complet ISBN-ul,
