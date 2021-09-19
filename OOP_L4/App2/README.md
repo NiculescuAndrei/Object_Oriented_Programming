@@ -1,4 +1,4 @@
-# Aplicatia 2
+# Aplicația 2
 Să se implementeze o clasă asociată alegerii “șefului de tribut” de către membrii tribului. Fiecare din
 cei 6 candidați are asociată o față a zarului. Numărul de membri din
 cadrul tribului cu drept de vot este cunoscut, precum și numărul de voturi
