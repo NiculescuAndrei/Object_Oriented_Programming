@@ -1,4 +1,4 @@
-# Aplicatia 5
+# Aplicația 5
 Să se proiecteze și să se implementeze o clasă pentru reprezentarea
 cărților dintr-o bibliotecă. Pentru fiecare carte trebuie specificate:
 
