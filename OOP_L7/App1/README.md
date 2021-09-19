@@ -1,0 +1,14 @@
+# Aplicația 1
+Să se proiecteze și să se implementeze o clasă asociată numerelor complexe. Clasa va
+conține supraîncărcarea operatorului de atribuire, a principalilor operatori aritmetici,
+precum și a operatorului ~ pentru operația de calcul a modulului unui număr complex. De
+asemenea, se va supraîncărca operatorul ^ pentru operația de ridicre a unui număr
+complex la o putere întreagă. În plus, clasa trebuie să posede o funcție de afișare, precum
+și constructori care să permită următoarea secvență:
+
+* complex z1; // z1 = 0+0i
+* complex z2(5); // z2 = 5+0i
+* complex z3(2, 3); // z3 = 2+3i
+* complex z4 = z2;
+
+Functia de test va utiliza un tablou de numere complexe v = ($$z_1$$, $$z_2$$, ..., $$z_2*n$$) pentru calculul expresiei:
