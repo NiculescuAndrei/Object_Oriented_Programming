@@ -11,4 +11,4 @@ complex la o putere întreagă. În plus, clasa trebuie să posede o funcție de
 * complex z3(2, 3); // z3 = 2+3i
 * complex z4 = z2;
 
-Functia de test va utiliza un tablou de numere complexe v = ($$z_1$$, $$z_2$$, ..., $$z_2*n$$) pentru calculul expresiei:
+Functia de test va utiliza un tablou de numere complexe v = (z<sub>1</sub>, z<sub>2</sub>, ..., z<sub>2*n</sub>) pentru calculul expresiei:
