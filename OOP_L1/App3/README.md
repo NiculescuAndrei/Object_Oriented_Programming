@@ -1,4 +1,4 @@
-# Application 3
+# Aplicația 3
 Să se dezvolte un modul pentru operaţii cu liste. Să se utilizeze acest modul pentru
 rezolvarea următoarei aplicaţii:
 Pentru concurenţii unui concurs de admitere se cunosc următoarele informaţii:
