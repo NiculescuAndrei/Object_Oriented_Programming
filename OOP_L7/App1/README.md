@@ -13,4 +13,4 @@ complex la o putere întreagă. În plus, clasa trebuie să posede o funcție de
 
 Functia de test va utiliza un tablou de numere complexe v = (z<sub>1</sub>, z<sub>2</sub>, ..., z<sub>2*n</sub>) pentru calculul expresiei:
 
-z = (z<sub>1</sub><sup>3</sup> + 
+z = (z<sub>1</sub><sup>3</sup> + z<sub>3</sub><sup>3</sup> + ... + z<sub>2*n-1</sub><sup>3</sup>) / (z<sub>2</sub><sup>4</sup> + z<sub>4</sub><sup>4</sup> + ... + z<sub>2*n</sub><sup>4</sup>)
