@@ -7,4 +7,4 @@ când este blocat de duşmani, sau când nu mai are puteri. Punctajul jocului es
 valorilor comorilor adunate.
 Labirintul este un tablou bidimensional ce conţine pătrate, fiecare pătrat putând să conțină o comoară, un dușman sau ambele. Labirintul este generat prin
 intermediul unui algoritm DFS, astfel încât la fiecare rulare a jocului să se obțină o structură diferită a labirintului. De asemenea, monștrii și comorile sunt plasate în
-mod aleatoriu.
+mod aleatoriu. Prezența unui monstru într-o locație din labirint este reprezentată prin litera M, comoara prin T, iar în cazul în care se află atât o comoară cât și un monstru într-o cameră, acest lucru este semnalat prin litera B.
